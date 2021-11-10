@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lista de la compra</title>
+	<link rel="stylesheet" href="styles/listacompra.css">
+</head>
+<body>
+	<h1>Lista de la compra</h1>
+<ol class="lista">
+	<li>Fruta</li>
+	<li>Verdura</li>
+	<li>Carne</li>
+</ol>
+</body>
+</html>
